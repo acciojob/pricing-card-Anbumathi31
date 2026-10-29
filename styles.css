@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.card{
+	width: 200px;
+	padding: 10px;
+}
+
+.image{
+	width: 100px;
+}
+
+.image img,h1{
+	width: 100px;
+}
+
+.image button{
+	color: white;
+	background-color: red;
+	border-radius: 20px;
+}
